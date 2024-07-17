@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-    <h1>Hello {{ message }}</h1>
+    <h1>Hello {{ message }} update</h1>
     <h2>{{ count }}</h2>
     <button @click="handleAdd">+1</button>
     <button @click="handleDes">-1</button>
