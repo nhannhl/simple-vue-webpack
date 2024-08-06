@@ -2,6 +2,7 @@
   <div class="app">
     <h1>Hello {{ message }} update</h1>
     <h2>{{ count }}</h2>
+    <h3>Test localhost</h3>
     <button @click="handleAdd">+1</button>
     <button @click="handleDes">-1</button>
   </div>
